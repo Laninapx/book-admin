@@ -1,1 +1,0 @@
-Miki library management system
